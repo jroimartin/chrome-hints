@@ -1,4 +1,4 @@
-/* hints.js for chrome - Nibble<.gs@gmail.com> */
+/* hints.js for chrome - Nibble<.ds@gmail.com> */
 
 /* Config */
 var homerow = 'asdfhjkl';
